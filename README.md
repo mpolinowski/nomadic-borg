@@ -25,7 +25,7 @@ A [restore can be run manually](https://mpolinowski.github.io/docs/DevOps/Hashic
 
 
 
-![Hashicorp Nomad to run periodic backups](./Hashicorp_Nomad_to_run_periodic_backups_02.png)
+![Hashicorp Nomad to run periodic backups](./Hashicorp_Nomad_to_run_periodic_backups.png)
 
 
 In the case above it is `c0c8ec8d`. We have to use the `ARCHIVE=c0c8ec8d` environment variable accordingly to retrieve your data:
