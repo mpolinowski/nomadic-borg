@@ -16,7 +16,7 @@ reschedule {
 }
 ```
 
-See [backup-service.tf](/blob/master/backup-service.tf) for an example to backup the MariaDB Database data directory of an PHP CMS (OSTicket).
+See [backup-service.tf](https://github.com/mpolinowski/nomadic-borg/blob/master/backup-service.tf) for an example to backup the MariaDB Database data directory of an PHP CMS (OSTicket).
 
 
 ## Restore a Backup
